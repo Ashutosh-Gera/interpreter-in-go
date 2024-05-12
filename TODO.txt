@@ -1,0 +1,26 @@
+# File to be used for breaking down tasks into simpler objectives and finishing them
+
+# Format : For each commit,
+# mention the date
+# the work done, check the tasks which are completed
+# and add new tasks in the new list 
+# checklists are made by [ ] and can be checked by putting an "x" between the braces
+
+TODO 
+
+# LARGE TASKS
+
+[ ] Lexer built
+[ ] paser built 
+[ ] the abstract syntax tree representation built
+[ ] internal object system built
+[ ] evaluator built 
+
+
+
+
+
+
+
+
+
